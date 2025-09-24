@@ -70,7 +70,7 @@
                                                 <div class="media-body">
                                                     <h5><a href="javascript:void(0)">Carrot</a></h5>
                                                     <p class="price">
-                                                        <span class="discount text-muted">Rp. 700.000</span>
+                                                        <span class="discount text-muted">Ksh. 700.000</span>
                                                         <span>Rp. 100.000</span>
                                                     </p>
                                                     <p class="text-muted">Qty: 1</p>
